@@ -3,6 +3,28 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Education Entertainment is a portfolio website made in compliance with our requirements for English 6.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+
+It is made by Jerome Andrei Aglugub, Marx Tristan Corpuz, Calvin Josh Cruz, Omar Dizon, Joel Andrew Mallari, Carlos Gabriel Oarde, and Hugh Angelo C. Sonon. With a major topic of Entertainment and various matching subtopics, we wrote a number of speeches and published them through this website.
+
+
+
+Hugh - Instant Gratification and Modern Entertainment
+
+Carlos - The Potential of Games As Interactive Art Form
+
+Calvin - Why People Enjoy Slice Of Life Anime
+
+Jerome - How Modern Media Radicalizes People
+
+Omar - 
+
+Marx - smth music related
+
+Andrew - Alternate Reality Games: When The Line Between Fiction and Reality Gets Blurred
+
+
+
+This website was made using the Minimalist Mistakes theme for Jekyll and hosted using Gitlab Pages.
