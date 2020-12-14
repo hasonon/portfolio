@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 title: Entertainment Education
 description: >- # this means to ignore newlines until "baseurl:"
   Grade 12-Krypton Students from PSHS-CLC who want to talk about entertainment.
-baseurl: "/hs-portfolio"
-url: "https://hasonon.gitlab.io"
+baseurl: "/portfolio"
+url: "https://hasonon.github.io"
 #twitter_username: username
 #github_username: hasonon
 minimal_mistakes_skin: default
